@@ -1,0 +1,68 @@
+body {
+margin: 0;
+font-family: 'Segoe UI', sans-serif;
+background: #050b1e;
+color: #ffffff;
+}
+
+
+.navbar {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 15px 40px;
+background: #020617;
+}
+
+
+.logo {
+color: #4fc3ff;
+font-weight: bold;
+font-size: 20px;
+}
+
+
+.navbar ul {
+list-style: none;
+display: flex;
+}
+
+
+.navbar a {
+color: #4fc3ff;
+margin-left: 20px;
+text-decoration: none;
+}
+
+
+.hero {
+text-align: center;
+padding: 120px 20px;
+}
+
+
+.btn {
+padding: 10px 20px;
+border: 1px solid #4fc3ff;
+color: #4fc3ff;
+text-decoration: none;
+display: inline-block;
+margin-top: 20px;
+}
+
+
+.content {
+padding: 60px 40px;
+}
+
+
+.projects {
+padding: 60px 40px;
+}
+
+
+.project-card {
+border: 1px solid #1e40af;
+padding: 20px;
+margin-bottom: 20px;
+}
